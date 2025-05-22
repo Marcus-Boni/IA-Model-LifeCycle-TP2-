@@ -12,7 +12,7 @@ Este projeto consiste na aplicação de modelos de Machine Learning para classif
 
 1. Clone o repositório.
 2. Instale as dependências: `pip install -r requirements.txt`.
-3. Execute o notebook `breast_cancer_analysis.ipynb`.
+3. Execute o notebook `Breast_Cancer_ML_Notebook.ipynb`.
 
 ## 🛠️ Bibliotecas
 
